@@ -2,18 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kysk-z-n.com/2025/02/16/test/</loc>
+    <loc>http://kysk-z-n.com/2025/02/17/test/</loc>
     
-    <lastmod>2025-02-16</lastmod>
+    <lastmod>2025-02-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://kysk-z-n.com/2025/02/16/hello-world/</loc>
+    <loc>http://kysk-z-n.com/2025/02/17/a/</loc>
     
-    <lastmod>2025-02-16</lastmod>
+    <lastmod>2025-02-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kysk-z-n.com/b/index.html</loc>
+    
+    <lastmod>2025-02-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kysk-z-n.com/tags/index.html</loc>
+    
+    <lastmod>2025-02-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -28,19 +46,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://kysk-z-n.com/tags/index.html</loc>
-    
-    <lastmod>2025-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://kysk-z-n.com/</loc>
-    <lastmod>2025-02-16</lastmod>
+    <lastmod>2025-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,11 +57,32 @@
   
   <url>
     <loc>http://kysk-z-n.com/tags/test/</loc>
-    <lastmod>2025-02-16</lastmod>
+    <lastmod>2025-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kysk-z-n.com/tags/tag1/</loc>
+    <lastmod>2025-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>http://kysk-z-n.com/categories/test/</loc>
+    <lastmod>2025-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kysk-z-n.com/categories/cat1/</loc>
+    <lastmod>2025-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
